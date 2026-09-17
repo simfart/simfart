@@ -1,28 +1,32 @@
-### Привет! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raised%20Back%20of%20Hand.png" alt="Raised Back of Hand" width="30" height="30" />
+# Привет, я Зина 👋
 
-Меня зовут Зина и я начинающий frontend разработчик.
+Frontend-разработчик. Создаю веб-интерфейсы на React, Next.js и TypeScript. В моих репозиториях также есть серверные приложения на Node.js и Telegram-боты.
 
- Моя цель — не только разрабатывать качественный код, но и постоянно расти как профессионал в области frontend разработки. Всегда открыта к новым проектам и возможностям для совершенствования своих навыков. Если у вас есть интересные задачи или предложения сотрудничества, буду рада обсудить их с вами!
+[Telegram](https://t.me/artzina) · [Почта](mailto:artzbox7@gmail.com) · [Все репозитории](https://github.com/simfart?tab=repositories)
 
-<h3>Мой стек</h3>
+## Стек
 
-<div>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-     <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-          <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+- **Интерфейсы:** HTML, CSS, Sass, React Router.
+- **Серверная часть и данные:** Node.js, Express, MongoDB, Prisma, SQLite.
+- **Боты:** Telegraf, TypeScript.
+- **Инструменты:** Git, Figma, Postman, Nginx.
 
+## Проекты
 
-<h3>Статистика</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=simfart&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+| Проект | Описание | Технологии |
+| --- | --- | --- |
+| [Sevbeds — frontend](https://github.com/simfart/sevbeds-frontend) | Веб-приложение на Next.js | TypeScript, React, Next.js, Tailwind CSS |
+| [Sevbeds — backend](https://github.com/simfart/sevbeds-backend) | Серверная часть с моделями статей и администраторов | Node.js, Express, Prisma, SQLite, JWT |
+| [Finbot](https://github.com/simfart/finbot) | Telegram-бот | TypeScript, Telegraf |
+| Movies Explorer · [frontend](https://github.com/simfart/movies-explorer-frontend) · [API](https://github.com/simfart/movies-explorer-api) | Проект о фильмах с отдельными репозиториями клиента и сервера | JavaScript |
+| [Путешествия по России](https://github.com/simfart/russian-travel) | Проект вёрстки | HTML, CSS |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simfart&layout=compact&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Связаться со мной
 
+Открыта к новым проектам и сотрудничеству. Напишите мне в [Telegram](https://t.me/artzina) или на [artzbox7@gmail.com](mailto:artzbox7@gmail.com).
